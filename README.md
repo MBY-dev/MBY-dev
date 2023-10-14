@@ -1,4 +1,4 @@
-# align="center">Hi 👋, I'm Memduh Berat Yılmaz # 
+# Hi 👋, I'm Memduh Berat Yılmaz # 
 ## React & JS & Solidty  ##
 
 ### Connect with me: 
