@@ -14,47 +14,6 @@
   Interested in reliable systems, backend engineering, AI, blockchain and new technologies.
 </p>
 
----
-
-<h2 align="center">Languages & Tools</h2>
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,sql,solidity" />
-</p>
-
-<h3 align="center">Backend & Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,prisma" />
-</p>
-
-<h3 align="center">Frontend & Mobile</h3>
-
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,reactnative,expo" />
-</p>
-
-<h3 align="center">DevOps & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,sentry,linux" />
-</p>
-
----
-
-<h2 align="center">What I Like Building</h2>
-
-<p align="center">
-  Reliable systems · Backend architecture · Automation · AI-assisted development
-  <br />
-  Distributed workflows · Data consistency · Developer tools
-</p>
-
----
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
