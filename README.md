@@ -32,12 +32,9 @@
 
 <h3 align="center">Frontend & Mobile</h3>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,reactnative,expo"
-    style="margin-left: 200px;"
-  />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,reactnative,expo" />
+</div>
 
 <h3 align="center">DevOps & Infrastructure</h3>
 
