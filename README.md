@@ -35,7 +35,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,reactnative,expo"
-    style="margin-left: 20px;"
+    style="margin-left: 200px;"
   />
 </p>
 
